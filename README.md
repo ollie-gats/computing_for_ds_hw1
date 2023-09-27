@@ -2,6 +2,6 @@
 DSDM Computing for Data Science homework 1
 
 Team members:
-Oliver Gatland
-Vitoria Yuzkiv
+Oliver Gatland,
+Vitoria Yuzkiv,
 Angelo Di Giavito 🤌
